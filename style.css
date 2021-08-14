@@ -1,0 +1,16 @@
+body {
+    padding: 10px;
+  }
+  
+  input {
+    margin: 5px;
+  }
+  .group {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+  }
+.button-margin {
+    margin-top: 20px;
+    margin-left: 5px;
+}
